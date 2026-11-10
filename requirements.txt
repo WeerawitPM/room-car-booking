@@ -1,6 +1,6 @@
 APScheduler==3.10.4
 asgiref==3.8.1
-certifi==2024.8.30
+certifi==2026.10.18
 charset-normalizer==3.3.2
 Django==5.1.1
 idna==3.8
